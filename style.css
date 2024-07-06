@@ -1,8 +1,7 @@
 body {
   font-family: "Roboto Mono", monospace;
   text-align: center;
-  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F782289397766376129%2F&psig=AOvVaw2neDW9Zdnstjm4GJroYE0f&ust=1720312362322000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiG24uVkYcDFQAAAAAdAAAAABAE");
-  background-color: #000000;
+  background-image: url("https://i.pinimg.com/originals/d7/16/1e/d7161e2b9830a4e4c742f25abe58910e.jpg");
   background-size: cover;
   background-position: center top;
   background-repeat: no-repeat;
@@ -14,13 +13,13 @@ body {
 }
 
 .page-title {
-  color: #ffffff;
-  margin: 0 0 5px;
+  color: #be0a0a;
+  margin: 0 0 10px;
 }
 
 .page-subtitle {
   color: #ffffff;
-  margin-top: 5px;
+  margin-top: 10px;
 }
 
 .page-logo {
@@ -49,7 +48,7 @@ body {
   padding: 10px 15px;
 }
 
-.farm-wrapper button {
+.farm-wrapper Fbutton {
   border: 0;
   color: #ffffff;
   background: #da1e26;
